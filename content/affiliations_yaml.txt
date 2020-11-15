@@ -390,8 +390,8 @@
     orcid: 0000-0002-5974-7374
     email: aaronperez@ub.edu
     affiliations: 
+      - University of Vic-Central University of Catalonia, Department of Biosciences, Carrer de la Laura, 13, 08500, Vic, Barcelona, Spain
       - University of Barcelona, Department of Evolutionary Biology, Ecology and Environmental Sciences, Diagonal 643, 08028, Barcelona, Spain
-      - Center for Advanced Studies of Blanes, Spanish Research Council (CEAB-CSIC), Continental Ecology, Carrer d'accés a la Cala St. Francesc, 14, 17300, Blanes, Girona, Spain
   - github: 
     name: Tomáš Peterka
     email: peterkatomasek@seznam.cz
